@@ -1,5 +1,7 @@
 # Facebook-Friend-Recommendation
 
+Did this project as a part of Applied AI Course Assignment.
+
 Given a directed social graph, have to predict missing links to recommend users.
 
 Dataset: https://www.kaggle.com/c/FacebookRecruiting  
